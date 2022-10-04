@@ -1,0 +1,15 @@
+D:\GeekBrains\C# FinalWork\Program\bin\Debug\net6.0\Program.exe
+D:\GeekBrains\C# FinalWork\Program\bin\Debug\net6.0\Program.deps.json
+D:\GeekBrains\C# FinalWork\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+D:\GeekBrains\C# FinalWork\Program\bin\Debug\net6.0\Program.dll
+D:\GeekBrains\C# FinalWork\Program\bin\Debug\net6.0\Program.pdb
+D:\GeekBrains\C# FinalWork\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+D:\GeekBrains\C# FinalWork\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C# FinalWork\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+D:\GeekBrains\C# FinalWork\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+D:\GeekBrains\C# FinalWork\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C# FinalWork\Program\obj\Debug\net6.0\Program.dll
+D:\GeekBrains\C# FinalWork\Program\obj\Debug\net6.0\refint\Program.dll
+D:\GeekBrains\C# FinalWork\Program\obj\Debug\net6.0\Program.pdb
+D:\GeekBrains\C# FinalWork\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+D:\GeekBrains\C# FinalWork\Program\obj\Debug\net6.0\ref\Program.dll
